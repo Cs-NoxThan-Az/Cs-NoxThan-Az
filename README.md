@@ -10,7 +10,7 @@
 
 
 # 💫 About Me:
-I am Ider Abdelaziz a 23 years old Electronics Engineer with a strong interest in science and technology. Graduating from the<br>National Higher School of Advanced Technologies in Algeria has further ignited my passion for electronics, robotics, and <br>problem-solving. My education has provided a solid foundation in advanced technologies, particularly in the field of embedded systems.<br> My commitment to continuous learning and curious nature drives me to seek opportunities where I can<br>contribute to the ever-evolving world of technology.<br>
+I am Ider Abdelaziz a 23-year-old Electronics Engineer with a strong interest in science and technology. Graduated from the<br>National Higher School of Advanced Technologies in Algeria has further ignited my passion for electronics, robotics, and <br>problem-solving. My education has provided a solid foundation in advanced technologies, particularly in the field of embedded systems.<br> My commitment to continuous learning and curious nature drives me to seek opportunities where I can<br>contribute to the ever-evolving world of technology.<br>
 
 
 ## 🌐 Socials:
